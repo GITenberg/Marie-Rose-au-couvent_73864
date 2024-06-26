@@ -1,0 +1,27 @@
+_repo: Marie-Rose-au-couvent_73864
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Leroy-Allais, Jeanne
+    gutenberg_agent_id: '57255'
+    url: http://www.gutenberg.org/2009/agents/57255
+description: ''
+gutenberg_issued: '2024-06-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73864'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k9396892
+pgterms:marc905: 20240209235553leroyallai
+pgterms:marc906: '1909'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This file was produced from images generously made
+  available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: '  $aParis :$bPlon, $c1909.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Marie-Rose au couvent
+url: http://www.gutenberg.org/ebooks/73864
