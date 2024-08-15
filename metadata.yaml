@@ -1,11 +1,16 @@
 _repo: Marie-Rose-au-couvent_73864
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73864-h/images/cover.jpg
 creator:
   author:
     agent_name: Leroy-Allais, Jeanne
     gutenberg_agent_id: '57255'
     url: http://www.gutenberg.org/2009/agents/57255
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73864#Marie-Rose-au-couvent
 gutenberg_issued: '2024-06-18'
 gutenberg_type: Text
 identifiers:
